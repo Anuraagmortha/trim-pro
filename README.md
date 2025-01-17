@@ -3,8 +3,6 @@ TRIM-PRO is a lightweight FastAPI-based tool that allows users to upload audio f
 
 # **TRIM-PRO: Audio Trimming Tool with Transcription**
 
----
-
 ## **Overview**
 **TRIM-PRO** is an easy-to-use tool designed to help you:
 - Upload an audio file.
