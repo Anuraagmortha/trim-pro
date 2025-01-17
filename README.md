@@ -1,2 +1,27 @@
-# trim-pro
+# TRIM-PRO
 TRIM-PRO is a lightweight FastAPI-based tool that allows users to upload audio files, transcribe them into text, and selectively trim specific phrases by deleting portions of the transcript. It provides a user-friendly frontend for selecting phrases and generating the trimmed audio with the updated duration.
+
+# **TRIM-PRO: Audio Trimming Tool with Transcription**
+
+![UI Screenshot](![image](https://github.com/user-attachments/assets/3888c351-b12c-44a4-918b-317a32634c10))  
+
+---
+
+## **Overview**
+**TRIM-PRO** is an easy-to-use tool designed to help you:
+- Upload an audio file.
+- Transcribe the audio into a text format.
+- Select phrases from the transcript to trim specific portions of the audio.
+- Get the updated duration and download the trimmed audio.
+
+This tool provides a **user-friendly interface** and is perfect for quick and efficient audio editing tasks.
+
+---
+
+## **Features**
+- Upload audio files and transcribe them into text with timestamps.
+- Interactive UI for selecting transcript phrases to delete.
+- Real-time updates of the trimmed audio duration.
+- Play and download the processed audio directly from the UI.
+
+---
